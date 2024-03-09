@@ -1,3 +1,5 @@
 This research project focused on identifying publications on interest groups in the Global South.
 
 Methodology: Data from Scopus was exported in CSV format and analyzed using the 'bibliometrix' package in R Studio. The 'biblioshiny' function facilitated access to structured data on authors, institutions, and publication themes. Understanding authorship and affiliations is crucial for comprehending the intellectual landscape of research in this field. Conceptual structure analysis, focusing on word frequency and trending topics, revealed key issues explored in studies of interest groups in the Global South. Network analysis was conducted using VOSViewer, a tool for visualizing connections. Word relations were examined to verify associations between publications, with shared words indicating related research. Maps depicted connections between research topics and co-authorships, highlighting word citation frequency and publication years.
+
+The CSV contains metadata on the publications extracted from Scopus.
